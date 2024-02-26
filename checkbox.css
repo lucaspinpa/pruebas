@@ -1,3 +1,4 @@
+body {background: #2986cc;}
 .checkbox-symbol {
   position: absolute;
   width: 0;
@@ -8,7 +9,7 @@
 
 .checkbox-container {
   box-sizing: border-box;
-  background: #ffffff;
+  background: #67d98e;
   color: #222;
   height: 64px;
   display: flex;
