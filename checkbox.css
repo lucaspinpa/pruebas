@@ -1,4 +1,5 @@
 body {background: #2986cc;}
+head {text: transparent;}
 .checkbox-symbol {
   position: absolute;
   width: 0;
