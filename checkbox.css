@@ -14,9 +14,7 @@ head {text: transparent;}
   color: #222;
   height: 64px;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: row wrap;
+
 }
 
 .checkbox-container * {
